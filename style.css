@@ -1,0 +1,159 @@
+* {
+    box-sizing: border-box;
+}
+
+#para1 {
+    height: 2px;
+    font-size: 30px;
+}
+
+.navbar {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 120px;
+}
+
+.icons {
+    display: flex;
+    justify-content: right;
+}
+
+.hero-section {
+    display: flex;
+}
+
+.left {
+    margin-top: 30px;
+}
+
+.right {
+    font-size: 20px;
+    margin-left:350px;
+    text-align: center;
+    
+}
+
+.stars {
+    size: 5px;
+    display: flex;
+    justify-content: center;
+    color: seagreen;
+    font-weight: 800;
+    margin-top:340px;
+}
+
+.dollars {
+    color:black;
+    margin-right: 600px;
+}
+body {   
+    min-height: 100px;
+}
+
+.navbar img {
+    max-width: 100px;
+    height: 80px;
+    margin-right: 45px;
+}
+
+.screenshot {
+    display: flex;
+}
+
+.icons i {
+    padding: 15px;
+}
+
+
+.list {
+    display: flex;
+    padding: 20px;
+    list-style: none;
+    margin-left: 350px
+}
+
+
+.list li {
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    font-size: 30px;
+    font-weight: 800;
+}
+nav-menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.parent {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    text-align-last: center;
+}
+
+.para {
+     text-align: center;
+     font-size: 30px;
+}
+
+.picture {
+    float:left;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 250px;
+    height:350px;
+}
+
+.screenshot {
+    width:100px;
+    height:100px;
+}
+
+
+
+
+hr {
+    width: 20%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    margin-left: 40%;
+}
+
+div.options {
+    display: flex;
+    word-spacing: 30px;
+}
+
+.terms {
+    text-align:center;
+}
+.social {
+    display: flex;
+    justify-content: right;
+}
+
+.heading {
+    text-align: center;
+}
+
+.content {
+    display: flex;
+    margin-top: 100px;
+    width: 100%;
+    justify-content: space-between;
+    text-align-last: center;
+}
+
+body {
+    margin: 40px;
+    border-top: 1px solid rgb(200,200,200);
+    border-bottom: 1px solid black;
+}

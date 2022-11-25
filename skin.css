@@ -1,0 +1,17 @@
+.heading {
+    text-align: center;
+}
+
+.content {
+    display: flex;
+    margin-top: 100px;
+    width: 100%;
+    justify-content: space-between;
+    text-align-last: center;
+}
+
+body {
+    margin: 40px;
+    border-top: 1px solid rgb(200,200,200);
+    border-bottom: 1px solid black;
+}
